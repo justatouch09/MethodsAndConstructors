@@ -17,7 +17,7 @@ For each of the classes you made yesterday, write getters and setters.
 
 **HARD MODE**
 * Omit the out/ directory from source control.
-* For each class, write a constructor that sets all of its field.
+* For each class, write a constructor that sets all of its fields.
 
 **RIDICULOUS MODE**
 * In each class, write a constructor that sets all of its fields.
